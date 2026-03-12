@@ -53,3 +53,10 @@ python server.py  # http://localhost:8400
 pip install pytest httpx
 pytest tests/
 ```
+
+## Related Projects
+
+| Project | Description |
+|---------|-------------|
+| [RoadC](https://github.com/blackboxprogramming/roadc) | The RoadC programming language |
+| [Universal Computer](https://github.com/blackboxprogramming/universal-computer) | Turing machine simulator |
